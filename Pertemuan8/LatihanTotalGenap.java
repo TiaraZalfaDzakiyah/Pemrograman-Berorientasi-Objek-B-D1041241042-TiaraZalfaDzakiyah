@@ -1,3 +1,8 @@
+//Nama: Tiara Zalfa Dzakiyah
+//NIM: D1041241042
+
+
+
 package Pertemuan8;
 
 public class LatihanTotalGenap {
