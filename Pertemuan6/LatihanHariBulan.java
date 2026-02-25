@@ -1,3 +1,7 @@
+//Nama: Tiara Zalfa Dzakiyah
+//NIM: D1041241042
+
+
 package Pertemuan6;
 
 public class LatihanHariBulan {
