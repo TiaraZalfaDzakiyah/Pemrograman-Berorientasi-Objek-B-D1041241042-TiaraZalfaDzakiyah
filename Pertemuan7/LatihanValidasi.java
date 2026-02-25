@@ -1,3 +1,8 @@
+//Nama: Tiara Zalfa Dzakiyah
+//NIM: D1041241042
+
+
+
 package Pertemuan7;
 
 import java.util.Scanner; //menggunakan objek dari scanner untuk input nilai
