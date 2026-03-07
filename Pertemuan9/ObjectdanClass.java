@@ -4,7 +4,7 @@ Tanggal: 20 Februari 2026*/
 
 
 package Pertemuan9;
-class Mobil {
+class Mobil1 {
     String merk;
     String warna;
     int tahun;
@@ -22,7 +22,7 @@ class Mobil {
 }
 public class ObjectdanClass {
     public static void main(String[] args) {
-        Mobil mobil1 = new Mobil();
+        Mobil1 mobil1 = new Mobil1();
         mobil1.merk = "Pajero Sport";
         mobil1.warna = "Hitam";
         mobil1.tahun = 2022;
