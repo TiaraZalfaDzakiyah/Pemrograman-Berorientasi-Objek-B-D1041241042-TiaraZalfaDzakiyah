@@ -15,7 +15,7 @@ class Sekolah{
         Kelas(String namaKelas){
             this.namaKelas = namaKelas;
         }
-        public void Info(){
+        public void info(){
             System.out.println("Sekolah: " + namaSekolah);
             System.out.println("Kelas: " + namaKelas);
         }
@@ -25,6 +25,6 @@ public class InnerClass {
     public static void main(String[] args) {
       Sekolah sekolah = new Sekolah("SMA Negeri 1"); //mengakses outer class
       Sekolah.Kelas sekolah1 = sekolah.new Kelas("X-A"); //mengakses inner class melalui outer class
-      sekolah1.Info();   //memanggil method melalui object inner class
+      sekolah1.info();   //memanggil method melalui object inner class
     }
 }
